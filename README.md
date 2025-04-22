@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **@TK51** aka Taras Kay
+# 👋 Hi, I’m **@TK51** aka Tee Kay
 ### 👀 I’m interested in getting closer to becoming a **data engineer**
 - 🌱 I’m currently learning **R, SQL, Python**, and data engineering tools and techniques
 - ➜ (Check my certificates : https://www.credly.com/users/taras-khamardiuk/badges#)
