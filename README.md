@@ -1,12 +1,51 @@
-# 👋 Hi, I’m **@TK51** aka Tee Kay
-### 👀 I’m interested in getting closer to becoming a **data engineer**
-- 🌱 I’m currently learning **R, SQL, Python**, and data engineering tools and techniques
-- ➜ (Check my certificates : https://www.credly.com/users/taras-khamardiuk/badges#)
-- o_O **Data Engineering** and **Busienss Intelligence** are among my top interests
-- 🤝 I’m looking for **jobs opportunities** in Data Analytics or Business Intelligence field
-- 📫 How to reach me - hit me something @ LinkedIn.
+# 👋 Welcome — I'm Taras Khamardiuk (aka Kay aka TK51)
 
-<!---
-TK51/TK51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**BI & Analytics Specialist** focused on **Python-based automation**, **reproducible workflows**, and **practical systems thinking**.
+
+---
+
+## 🔧 What I Do
+
+- Currently working as a **Crime Analyst**, building operational insights through:
+  - Data pipelines
+  - Geospatial logic
+  - BI platforms (Power BI, ArcGIS, SQL, Excel, Python)
+- Reducing repetitive manual tasks through **modular scripting**
+- Automating reporting workflows and designing **scalable process logic**
+
+---
+
+## 📚 Tools & Stack
+
+- **Languages**: Python, SQL  
+- **BI Tools**: Power BI, Excel, Tableau/Looker  
+- **GIS & Workflow**: ArcGIS Pro, Access, Google Sheets  
+- **Focus**: Automation, data reproducibility, multi-environment integration
+
+---
+
+## 📄 Certifications
+
+🧾 [View Verified Badges on Credly →](https://www.credly.com/users/taras-khamardiuk/badges#)
+
+---
+
+## 🧠 Interests
+
+- Data Engineering & Pipelines  
+- Business Intelligence Systems  
+- Workflow Design & Automation  
+- Human-centered technical architecture
+
+---
+
+## 🤝 Let’s Connect
+
+Quietly open to technical BI, data engineering, or workflow-focused opportunities — where **clarity, structure, and action** matter more than buzzwords.
+
+📬 [Find me on LinkedIn](https://www.linkedin.com/in/tkhamardiuk)  
+💻 [GitHub: @TK51](https://github.com/TK51)
+
+---
+
+*No trends. No fluff. Just structured work that scales.*
