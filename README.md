@@ -1,96 +1,95 @@
 # 👋 Welcome — I'm Taras Khamardiuk (aka Kay aka TK51)
 
-**Technical Solutions Designer** and **Systems Strategist**  
-Diagnosing decay. Designing clarity. Engineering structure from field friction.
+**Business Data Analyst** by alignment.  
+**Technical Solutions Designer** by instinct.  
+A system operator born from friction — not theory.
 
 ---
 
 ## 🛠️ What I Actually Do
 
 - Officially: Crime Analyst.  
-- Actually: A platform-minded builder who sees where systems break, and wires them back up.
-- I **convert messy realities into structured logic**, whether through data, UX teardown, or architecture mapping.
-- I don't chase tools — I chase why things fail, and **engineer grounded alternatives**.
-- I **reduce click-debt** through **modular scripting** and **reproducible workflows** that scale without micromanagement.
+- Actually: I wire broken reporting systems back into signal flow.  
+- I **translate field dysfunction into structured logic**, using data, UX teardown, and automation workflows.  
+- I don’t build around tools — I build around failure patterns.  
+- My job is to stabilize what others abandoned — **via scripting, logic repair, and behavioral insight**.
 
 ---
 
-## 🔂 From Field Insight to Engineered Signal
+## 🔂 From UX Wounds to Working Systems
 
-- I **tabulate and monitor** lived systems, then reverse-engineer usable features from them.  
-- My experience comes from **putting life into data**, not dressing dashboards after the fact.  
-- I've modeled platform behavior and UX friction entirely inside Sheets — because clarity doesn’t require a license.  
-- I don’t mistake **tools for skills**. Power BI, ArcGIS, Looker, Tableau — all just instruments, not identities.  
-- My strength is seeing **systemic co-relations**, tracing **root causes**, and applying **Kaizen-style refinements** that reduce invisible waste.
-
----
-
-## ⚠️ Anti-Vanity Design Philosophy
-
-- I’m **not okay** with solutions where **creators win but users lose**.  
-- UX without logic is just decoration.  
-- I question systems where polish beats clarity.  
-- I stand for **user-centered infrastructure**, not portfolio-centered inventions.  
+- I **observe live environments**, extract logic, and engineer corrections.  
+- That means reporting pipelines, civic workflows, clinical forms — all the stuff that breaks quietly.  
+- Sometimes I fix it in Python. Sometimes in Excel. Sometimes by deleting 27 useless steps.  
+- I don’t confuse **dashboards with delivery**. Reporting is a structure — not a look.
 
 ---
 
-## 📍 Current Technical Focus
+## ⚠️ Anti-Vanity Design (Still Unapologetic)
 
-- Designing **failure-resistant** logic layers  
-- Re-architecting **signal flow** across BI, UX, civic tech, and infrastructure  
-- Building **traceable workflows** and **self-validating structures**  
-- Injecting **real-world correction** into the overly polished tech landscape
-
----
-
-## 🔋 Personal Verticals
-
-1. **Automotive + EV**: Interface logic, drive experience, spatial dynamics  
-2. **Tech UX**: Systems that work the first time, not after 5 updates  
-3. **Civic + Healthcare Systems**: Where inefficiency hurts the most  
-4. **Data Translation Layers**: Turning life into structure, then action
+- I still refuse UX where creators win and users lose.  
+- I’ve seen too many “polished” apps fail in real workflows.  
+- If your platform has 12 features and only 3 work under stress — I’ll find them.  
+- I’m not chasing hype. I’m chasing **stability** — the kind you don’t have to re-train for.
 
 ---
 
-## 🔧 Tooling (Not Identity)
+## 📍 Current Tactical Focus
 
-- **Languages**: Python, SQL  
-- **BI Tools**: Power BI, Excel, Tableau, Looker  
-- **GIS + Workflow**: ArcGIS Pro, Google Sheets, MS Access  
-- **Infrastructure**: GitHub, automation pipelines, custom UX logic  
-- **Modality**: From no-code scaffolds to full-scripted platforms — based on what the system needs
+- Building **resilient BI/reporting workflows** across civic + clinical + operational fields  
+- Automating failure-prone logic using **Python + Excel + field signals**  
+- Rewriting **data stories into reproducible reports**, not one-off visuals  
+- Injecting clarity into backend decisions — **even when no one’s watching**
 
 ---
 
-## 📄 Certifications
+## 🔋 Personal Signal Zones
+
+1. **EV & Automotive**: UX from the wheel, not from the spec sheet  
+2. **Operational BI**: Systems that handle pressure — not pitch decks  
+3. **Civic & Clinical Ops**: Where delays and error cost lives  
+4. **Data + Form Logic**: Turning forms into structured pipelines
+
+---
+
+## 🔧 Tooling (Still Just Tools)
+
+- **Languages**: Python (pandas, openpyxl), SQL, R (trully amazing thing, using rarely)  
+- **BI Tools**: Excel (pivot logic + scripting), Power BI, Tableau, Looker  
+- **Workflow/GIS**: ArcGIS Pro, MS Access, Outlook scripting, Sheets  
+- **Infrastructure**: GitHub, process pipelines, automation frameworks  
+- **Modality**: No-code, low-code, full script — I use what fits the fracture
+
+---
+
+## 📄 Certs & Proofs
 
 🧾 [Credly Badge Vault →](https://www.credly.com/users/taras-khamardiuk/badges#)  
-(Yes, they’re real. But more real? I’ve used them to build systems that don’t collapse — unlike most slide decks.)
+(Yeah, I’ve got badges. But more importantly — **I’ve built systems that don’t ghost their users**.)
 
 ---
 
-## 🧭 Career Locked
+## 🧭 Career Runtime
 
-**Now**: Technical Solutions Designer / System Architect / Automotive UX Strategist  
-**Before**: BI & Automation Specialist, Data-Focused Analyst  
-**Next**: Platform refactorer. System troublemaker. Infrastructure corrector.
+**Now**: Reporting Automation Specialist / Business Data Analyst  
+**Always**: Systems-thinker with TSD/SA instincts  
+**Next**: Data Systems Operator. UX debugger. Pipeline stabilizer.
 
 ---
 
-## 🤝 Let’s (Maybe) Connect
+## 🤝 Let’s Connect (If It’s Real)
 
-If you think good UX is color schemes, skip me.  
-If you think structured backend leads to better experiences, maybe we should talk.  
-Not seeking attention — just building in public what should’ve worked by default.  
-I’m not building for hype. I’m building for people who’ll care later.
+If you value polish over logic, I’m not for you.  
+If you want **reporting pipelines that don’t collapse**, then maybe we talk.  
+Not trying to trend — just trying to deliver **the work no one else likes to touch**.
 
 📬 [LinkedIn](https://www.linkedin.com/in/tkhamardiuk)  
 💻 [GitHub: @TK51](https://github.com/TK51)
 
 ---
 
-*Real structure. No fluff. Platform first. Users always.*
+*Still no fluff. Still user-first. Now with Python.*
 
 ---
 
-#fromukrainianswithlovetohumankind 🇺🇦 
+#fromukrainianswithlovetohumankind 🇺🇦  
