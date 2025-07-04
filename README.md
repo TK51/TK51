@@ -8,7 +8,7 @@ A system operator born from friction — not theory.
 
 ## 🛠️ What I Actually Do
 
-- Officially: Crime Analyst.  
+- Officially: Business Data Analyst / Crime Analyst.  
 - Actually: I wire broken reporting systems back into signal flow.  
 - I **translate field dysfunction into structured logic**, using data, UX teardown, and automation workflows.  
 - I don’t build around tools — I build around failure patterns.  
