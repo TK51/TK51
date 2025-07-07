@@ -1,7 +1,7 @@
 # x_X Welcome — I'm Taras Khamardiuk (aka Kay / TK51)
 
 **Business Data Analyst** by alignment.  
-*Technical Solutions Designer* by instinct.  
+Technical Solutions Designer by instinct.  
 System operator built from friction — not theory.
 
 ---
