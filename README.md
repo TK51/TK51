@@ -1,9 +1,11 @@
 ## x_X Welcome — I'm Taras Khamardiuk (aka Kay / TK51)  
+
 Business Data Analyst by alignment.  
 Technical Solutions Designer by instinct.  
 System operator built from friction — not theory.
 ---
 ### x_X What I Actually Do  
+
 Official: BDA / Crime Analyst  
 Actual: I translate field dysfunction into structured logic.  
 Using Python, Excel, teardown workflows, and behavior-aware scripting.  
@@ -11,12 +13,14 @@ Not tool-centered — failure-pattern centered.
 Most of what I work on wasn’t broken loudly — just neglected until it mattered.
 ---
 ### x_X Pattern Work  
+
 I observe where friction lives — in forms, flows, overlooked steps.  
 Then I map what breaks, trace to repeat logic, and patch it:  
 automation, teardown, deletion, or reframing.  
 Quiet fixes. Durable outcomes.
 ---
 ### x_X From UX Wounds to Working Systems  
+
 I rebuild civic workflows, reporting pipelines, clinical forms.  
 Sometimes I delete 27 useless steps. Sometimes I script.  
 Dashboards ≠ delivery.  
