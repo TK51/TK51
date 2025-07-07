@@ -1,4 +1,4 @@
-# x_X Welcome — I'm Taras Khamardiuk (aka Kay / TK51)
+## x_X Welcome — I'm **Kay** (aka TK51 / Taras Khamardiuk)
 
 **Business Data Analyst** by alignment.  
 Technical Solutions Designer by instinct.  
