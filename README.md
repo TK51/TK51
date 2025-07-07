@@ -61,7 +61,7 @@ I don’t chase polish. I deliver logic that doesn’t need retraining.
 
 ### x_X Runtime & Contact
 
-Now: Reporting Automation Specialist / Business Data Analyst  
+Now: Business Data Analyst / Reporting Automation Analyst   
 Always: Logic builder with TSD instincts  
 Next: Data Systems Operator. UX debugger. Pipeline stabilizer.
 
