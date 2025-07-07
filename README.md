@@ -1,95 +1,52 @@
-# 👋 Welcome — I'm Taras Khamardiuk (aka Kay aka TK51)
-
-**Business Data Analyst** by alignment.  
-**Technical Solutions Designer** by instinct.  
-A system operator born from friction — not theory.
-
+# x_X Welcome — I'm Taras Khamardiuk (aka Kay / TK51)  
+Business Data Analyst by alignment.  
+Technical Solutions Designer by instinct.  
+System operator built from friction — not theory.
 ---
-
-## 🛠️ What I Actually Do
-
-- Officially: Business Data Analyst / Crime Analyst.  
-- Actually: I wire broken reporting systems back into signal flow.  
-- I **translate field dysfunction into structured logic**, using data, UX teardown, and automation workflows.  
-- I don’t build around tools — I build around failure patterns.  
-- My job is to stabilize what others abandoned — **via scripting, logic repair, and behavioral insight**.
-
+### x_X What I Actually Do  
+Official: BDA / Crime Analyst  
+Actual: I translate field dysfunction into structured logic.  
+Using Python, Excel, teardown workflows, and behavior-aware scripting.  
+Not tool-centered — failure-pattern centered.  
+Most of what I work on wasn’t broken loudly — just neglected until it mattered.
 ---
-
-## 🔂 From UX Wounds to Working Systems
-
-- I **observe live environments**, extract logic, and engineer corrections.  
-- That means reporting pipelines, civic workflows, clinical forms — all the stuff that breaks quietly.  
-- Sometimes I fix it in Python. Sometimes in Excel. Sometimes by deleting 27 useless steps.  
-- I don’t confuse **dashboards with delivery**. Reporting is a structure — not a look.
-
+### x_X Pattern Work  
+I observe where friction lives — in forms, flows, overlooked steps.  
+Then I map what breaks, trace to repeat logic, and patch it:  
+automation, teardown, deletion, or reframing.  
+Quiet fixes. Durable outcomes.
 ---
-
-## ⚠️ Anti-Vanity Design (Still Unapologetic)
-
-- I still refuse UX where creators win and users lose.  
-- I’ve seen too many “polished” apps fail in real workflows.  
-- If your platform has 12 features and only 3 work under stress — I’ll find them.  
-- I’m not chasing hype. I’m chasing **stability** — the kind you don’t have to re-train for.
-
+### x_X From UX Wounds to Working Systems  
+I rebuild civic workflows, reporting pipelines, clinical forms.  
+Sometimes I delete 27 useless steps. Sometimes I script.  
+Dashboards ≠ delivery.  
+Reporting is structure — not aesthetic.
 ---
-
-## 📍 Current Tactical Focus
-
-- Building **resilient BI/reporting workflows** across civic + clinical + operational fields  
-- Automating failure-prone logic using **Python + Excel + field signals**  
-- Rewriting **data stories into reproducible reports**, not one-off visuals  
-- Injecting clarity into backend decisions — **even when no one’s watching**
-
+### x_X Anti-Vanity Design  
+Too many “polished” apps collapse in the real world.  
+If your platform fails under pressure, I’ll find it.  
+I don’t chase polish. I deliver logic that doesn’t need retraining.
 ---
-
-## 🔋 Personal Signal Zones
-
-1. **EV & Automotive**: UX from the wheel, not from the spec sheet  
-2. **Operational BI**: Systems that handle pressure — not pitch decks  
-3. **Civic & Clinical Ops**: Where delays and error cost lives  
-4. **Data + Form Logic**: Turning forms into structured pipelines
-
+### x_X Tooling (Still Just Tools)  
+**Languages**: Python (pandas, openpyxl), SQL, R (used tactically)  
+**BI Tools**: Excel (pivot logic + automation), Power BI, Tableau, Looker  
+**Ops/GIS**: ArcGIS Pro, MS Access, Outlook scripting, Sheets  
+**Infra**: GitHub, automation pipelines, modular logic  
+**Modality**: No-code, low-code, script — I use what fits the fracture
 ---
-
-## 🔧 Tooling (Still Just Tools)
-
-- **Languages**: Python (pandas, openpyxl), SQL, R (trully amazing thing, using rarely)  
-- **BI Tools**: Excel (pivot logic + scripting), Power BI, Tableau, Looker  
-- **Workflow/GIS**: ArcGIS Pro, MS Access, Outlook scripting, Sheets  
-- **Infrastructure**: GitHub, process pipelines, automation frameworks  
-- **Modality**: No-code, low-code, full script — I use what fits the fracture
-
+### x_X Certs & Proofs  
+[Credly Badge Vault →](https://www.credly.com/users/taras-khamardiuk/badges)  
+(Yes, I have badges. But more importantly — I build systems that don’t ghost users.)
 ---
+### x_X Runtime & Contact  
+Now: Reporting Automation Specialist / Business Data Analyst  
+Always: Logic builder with TSD instincts  
+Next: Data Systems Operator. UX debugger. Pipeline stabilizer.  
 
-## 📄 Certs & Proofs
+If polish matters more than flow — I’m not your guy.  
+If you want pipelines that don’t collapse — maybe we talk.  
 
-🧾 [Credly Badge Vault →](https://www.credly.com/users/taras-khamardiuk/badges#)  
-(Yeah, I’ve got badges. But more importantly — **I’ve built systems that don’t ghost their users**.)
-
+[LinkedIn](https://www.linkedin.com/in/taras-khamardiuk)  
+[GitHub](https://github.com/TK51)
 ---
-
-## 🧭 Career Runtime
-
-**Now**: Reporting Automation Specialist / Business Data Analyst  
-**Always**: Systems-thinker with TSD/SA instincts  
-**Next**: Data Systems Operator. UX debugger. Pipeline stabilizer.
-
----
-
-## 🤝 Let’s Connect (If It’s Real)
-
-If you value polish over logic, I’m not for you.  
-If you want **reporting pipelines that don’t collapse**, then maybe we talk.  
-Not trying to trend — just trying to deliver **the work no one else likes to touch**.
-
-📬 [LinkedIn](https://www.linkedin.com/in/tkhamardiuk)  
-💻 [GitHub: @TK51](https://github.com/TK51)
-
----
-
-*Still no fluff. Still user-first. Now with Python.*
-
----
-
-#fromukrainianswithlovetohumankind 🇺🇦  
+#fromukrainianswithlovetohumankind 🇺🇦
